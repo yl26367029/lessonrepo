@@ -8,7 +8,7 @@
 			ASAKUSA
 		(ACCOMODATION) XXXX
 ---------------------------------------------------------------------------------------------
-13 Oct Tokyo Tour	(detail schedule is not fixed)
+16 Oct Tokyo Tour	(detail schedule is not fixed)
 			TSUKIJI
 			KABUKIZA
 			GINZA
@@ -27,3 +27,6 @@
 		xx:xx TOKYO
 		 Kyoto Tour
 		(ACCOMODATION) XXXX
+30 Apr 10:40 Higashi Nakano
+       11:00 lesson2
+	   12:30nlunchon
